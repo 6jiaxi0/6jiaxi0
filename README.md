@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
-## 后端工程师—水中石 
+## 后端工程师—风吹 
 
 热爱后端、热爱技术。在校大学生。喜欢参与一些开源项目的讨论。
 
